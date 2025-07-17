@@ -20,3 +20,4 @@ hhhh
 hhhh
 hhhh
 hhhh
+I added a new command into this txt,please pull the latest branch to the local repository.
